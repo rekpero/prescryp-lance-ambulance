@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+
+        <item
+            android:id="@+id/nav_details"
+            android:icon="@drawable/ambulance"
+            android:title="Ambulance Details" />
+        <item
+            android:id="@+id/nav_booking"
+            android:icon="@drawable/booking"
+            android:title="Bookings" />
+        <item
+            android:id="@+id/nav_get_support"
+            android:icon="@drawable/customer_service_black"
+            android:title="Get Support" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/settings_black"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+    </group>
+
+
+</menu>

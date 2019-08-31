@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lance Ambulance</string>
+    <string name="title_activity_book_ambulance_maps">Map</string>
+    <string name="title_activity_book_ambulance">BookAmbulanceActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_driver_account">DriverAccountActivity</string>
+    <string name="e_mail">Email Address</string>
+    <string name="edit_photo">Edit Photo</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="location">Location</string>
+    <string name="save_changes">Save</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="u00a92018_prescryp_app_version_1_0_0">©2018 Prescryp. App version 1.0.0</string>
+    <string name="title_activity_search_location">SearchLocationActivity</string>
+    <string name="title_activity_ride_history">RideHistoryActivity</string>
+    <string name="title_activity_rie_history_single">RieHistorySingleActivity</string>
+    <string name="default_notification_channel_id">REQUEST_CHANNEL_PICKUP</string>
+    <string name="title_activity_ride_started">RideStartedActivity</string>
+    <string name="feel_free_to_call_us_for_further_updates">Having Problem! Feel free to call us for help.</string>
+</resources>
