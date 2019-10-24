@@ -24,3 +24,9 @@ This app is for ambulance services for effective patient requests and location t
 **Cloud :** Firebase Function
 
 **Tools**: Android Studio, Sublime
+
+## Other Modules
+
+This app is depended on another module for patient. The Github link to that app:
+
+> ##### [Prescryp Lance Patient](https://github.com/mmitrasish/prescryp-lance-patient)
